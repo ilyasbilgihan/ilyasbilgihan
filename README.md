@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on **Mobile/Web Development using Node.js**
 - 🌱 I’m currently learning **React**, **React Native** and **Vue.**
+- 🎯 I want to learn **Flutter**
 - 📫 Reach me on: **ilyasbilgihan@gmail.com**, **[twitter/@ilyasbilgihan](https://twitter.com/ilyasbilgihan)** or **[instagram/@ilyasbilgihan](https://instagram.com/ilyasbilgihan)**
 
 ![Ilyas Bilgihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbilgihan&bg_color=-15,348AC7,7474BF&title_color=f9f9f9&icon_color=f9f9f9&text_color=f9f9f9&show_icons=true&hide_border=true)
