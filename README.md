@@ -7,6 +7,8 @@
 - 🎯 I want to learn **TypeScript**, **Dart** and **Flutter**
 - 📫 Reach me on: **[twitter/@ilyasbilgihan](https://twitter.com/ilyasbilgihan)**, **[instagram/@ilyasbilgihan](https://instagram.com/ilyasbilgihan)** or ****ilyasbilgihan@gmail.com****
 
+<br>
+
 </samp>
 
 ![Ilyas Bilgihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbilgihan&bg_color=-15,348AC7,7474BF&title_color=f9f9f9&icon_color=f9f9f9&text_color=f9f9f9&show_icons=true&hide_border=true)
