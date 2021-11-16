@@ -3,8 +3,8 @@
 # Welcome to My Github Profile 👋
 
 - 🔭 I’m currently working on **Mobile/Web Development using Node.js**
-- 🌱 I’m currently learning **React**, **React Native** and **Vue.**
-- 🎯 I want to learn **TypeScript**, **Dart** and **Flutter**
+- 🌱 I’m currently learning **React** and **Vue.**
+- 🎯 I want to learn **TypeScript**,  **React Native**,  **Dart** and **Flutter**
 - 📫 Reach me on: **[twitter/@ilyasbilgihan](https://twitter.com/ilyasbilgihan)**, **[instagram/@ilyasbilgihan](https://instagram.com/ilyasbilgihan)** or ****ilyasbilgihan@gmail.com****
 
 <br>
