@@ -2,7 +2,7 @@
 
 # Welcome to My Github Profile 👋
 
-- 🔭 I’m currently working on **Fullstack Development using Node.js**
+- 🔭 I’m currently working on **Fullstack Development using ~Node.js~ Bun**
 - 📫 Reach me on: **[twitter/@ilyasbilgihan](https://twitter.com/ilyasbilgihan)**, **[instagram/@ilyasbilgihan](https://instagram.com/ilyasbilgihan)** or ****ilyasbilgihan@gmail.com****
 
 <br>
